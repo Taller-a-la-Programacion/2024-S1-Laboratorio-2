@@ -22,7 +22,7 @@ Escribir una función en pyhon llamado **descomponerNumeros(lista)**, recibirá 
 
 ```python
 >>> descomponerNumeros([8524,256,1023,3698,-204,139])
-[[8,2,4], [2,6],[2],[6,8],[-2,0,-4]]
+[[8,2,4],[2,6],[0,2],[6,8],[-2,0,-4]]
 
  >>> descomponerNumeros([])
 "Error Lista vacia"
