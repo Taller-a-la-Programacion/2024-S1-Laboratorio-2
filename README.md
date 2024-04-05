@@ -3,6 +3,7 @@
 ## Instrucciones Generales
 - El archivo **debe** llamarse **Laboratorio2.py**
 - Debe realizar la siguiente función con iteración
+- Recordar siempre los **comentarios**
 
 
 ## Ejercicio 1. Valor 10 puntos.
